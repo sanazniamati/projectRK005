@@ -1,11 +1,12 @@
 {
-  "name": "projectrk002",
+  "name": "projectrk005",
   "version": "0.1.0",
   "private": true,
+  "description": "How to create a circle*",
   "keywords": [
     "react-konva",
     "react",
-    "Rect"
+    "Circle"
   ],
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
